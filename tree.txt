@@ -27,8 +27,7 @@
             mehricdmportal
         danzilona
         gensokyo
-        lusitania
+        lusitania (7964, -49, 3960)
     artic
         nara
         ichino
-        nswisston
