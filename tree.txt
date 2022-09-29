@@ -1,0 +1,34 @@
++,-
+    moloka
+        deepslate
+            fox.island
+        detroit
+        escobar
+        stonegate
+    lyrean
+        mehri (2645,59,-2205)
+            develhof (3044,35,-2621)
+            gutch (2563,35,-1978)
+            thijo (2245,35,-1700)
+            blanco (2817,35,-1693)
+        lambat (3690,76,-1400)
+            poblacion
+            katipan
+            uni_lambat
+            pioneer
+            cape_cacoa
+        pavia
+            sandtopia (790,15,-2389)
+    civmarket
++,+
+    mta
+    medi
+        cdm
+            mehricdmportal
+        danzilona
+        gensokyo
+        lusitania
+    artic
+        nara
+        ichino
+        nswisston

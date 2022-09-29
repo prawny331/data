@@ -8,7 +8,7 @@ re_comment = re.compile("#.*")
 
 features = []
 dest_stack = []
-with open(r'sars_tree.txt') as f:
+with open(r'tree.txt') as f:
   cur_ident=0
   for line in f.readlines():
     ident=0
@@ -32,7 +32,7 @@ with open(r'sars_tree.txt') as f:
     if comment_parse is not None:
       comment = comment_parse.group(0)[1:]
     # Parse /dest
-    dest = "/dest $"
+    dest = "/dest !"
     for c in line:
       if c in (" ","\t"):
         ident+=1
@@ -47,7 +47,7 @@ with open(r'sars_tree.txt') as f:
       dest+=f" {i[0]}"
     # Add to ccmap feature list
     if x is not None and z is not None:
-      o={'name':name,'x':x,'z':z,'dest':dest,'id':'ccmap:sars/station/'+striped}
+      o={'name':name,'x':x,'z':z,'dest':dest,'id':'civmap:onedest/station/'+striped}
       if y is not None:
         o['y'] = y
       if comment is not None:
@@ -56,7 +56,7 @@ with open(r'sars_tree.txt') as f:
 
 presentations = [
     {
-        "name": "Rails and Stops (SARS)",
+        "name": "Rails and Stops (OneDest)",
         "style_base": {
             "color": "#008844",
         },
@@ -81,5 +81,5 @@ collection_string = json.dumps(collection, indent = None, separators = (',', ':'
 collection_string = collection_string.replace("},{", "},\n{")
 print(collection_string)
 
-with open('ccmap.json','w') as f:
+with open('civmap.json','w') as f:
     f.write(collection_string)

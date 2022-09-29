@@ -32,7 +32,7 @@ jobs:
           python-version: '3.9.1'
           
       - name: execute route compute script
-        run: python sars_parse.py
+        run: python parse.py
       
       - name: Commits the data to the Repo
         uses: EndBug/add-and-commit@v7
@@ -40,4 +40,4 @@ jobs:
           author_name: Github Actions
           author_email: github_actions@github.com
           message: Compute Routes .JSON
-          add: 'ccmap.json'
+          add: 'civmap.json'
