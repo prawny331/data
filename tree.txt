@@ -31,4 +31,3 @@
     artic
         nara
         ichino
-        nswisston
