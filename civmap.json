@@ -4,4 +4,4 @@
 {"dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo (2245,35,-1700)","name":"thijo","x":2245,"y":35,"z":-1700},
 {"dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco (2817,35,-1693)","name":"blanco","x":2817,"y":35,"z":-1693},
 {"dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat (3690,76,-1400)","name":"lambat","x":3690,"y":76,"z":-1400},
-{"dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia (790,15,-2389)","name":"sandtopia","x":790,"y":15,"z":-2389}],"info":{"last_update":1664463221,"version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (OneDest)","style_base":{"color":"#008844"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia (790,15,-2389)","name":"sandtopia","x":790,"y":15,"z":-2389}],"info":{"last_update":1664463631,"version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (OneDest)","style_base":{"color":"#008844"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
