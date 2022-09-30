@@ -1,6 +1,6 @@
 # OneDest Data Repository
 
-This repo holds the data for the OneDest rail routing standard on CivMC.
+This repo holds the data for the OneDest rail routing standard on CivMC:
 
 `tree.txt` has the data for all existing stations and levels, organized in a simple custom indented tree format, which is then used to create the `civmap.json` file that is displayed on civmap as a layer. Some notes:
 
