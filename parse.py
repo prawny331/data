@@ -4,64 +4,96 @@ import time
 from os import environ
 
 re_coord = re.compile("\((.*?)\)")
+re_color = re.compile("\<(#.{6})\>")
 re_comment = re.compile("#.*")
 
 features = []
 dest_stack = []
+
+GREY = "#808080"
+
 with open(r'tree.txt') as f:
   cur_ident=0
+  color=GREY
   for line in f.readlines():
     ident=0
     striped = line.strip()
     name = striped.split(" ")[0]
-    # Parse Coordinates
-    x,y,z = None,None,None
-    coord_parse = re_coord.search(striped)
-    if coord_parse is not None:
-      coords = coord_parse.group(0)[1:-1].split(",")
-      if len(coords) == 2:
-        x = int(coords[0])
-        z = int(coords[1])
-      elif len(coords)==3:
-        x = int(coords[0])
-        y = int(coords[1])
-        z = int(coords[2])
-    # Parse comment
-    comment = None
-    comment_parse = re_comment.search(striped)
-    if comment_parse is not None:
-      comment = comment_parse.group(0)[1:]
+    
     # Parse /dest
     dest = "/dest !"
     for c in line:
-      if c in (" ","\t"):
-        ident+=1
-      else:
-        break
+        if c in (" ","\t"):
+            ident+=1
+        else:
+            break
     for i in range(len(dest_stack)-1,-1,-1):
-      item = dest_stack[i]
-      if ident <= item[1]:
-        dest_stack.pop(i)
+        item = dest_stack[i]
+        if ident <= item[1]:
+            dest_stack.pop(i)
     dest_stack.append((name,ident))
+    level = len(dest_stack)
+    
+    if level == 2:
+        color = GREY
+    
+    # Parse Coordinates
+    x,y,z = None,None,None
+    coord_parse = re_coord.search(striped)
+    if coord_parse:
+        coords = coord_parse.group(0)[1:-1].split(",")
+        if len(coords) == 2:
+            x = int(coords[0])
+            z = int(coords[1])
+        elif len(coords)==3:
+            x = int(coords[0])
+            y = int(coords[1])
+            z = int(coords[2])
+        
+    # Parse color
+    color_parse = re_color.search(striped)
+    if color_parse:
+        color = color_parse.group(0)[1:-1]
+    
+    # Parse comment
+    comment = None
+    comment_parse = re_comment.search(striped)
+    if comment_parse:
+        comment = comment_parse.group(0)[1:]
+    
     for i in dest_stack:
-      dest+=f" {i[0]}"
+        dest+=f" {i[0]}"
     # Add to ccmap feature list
     if x is not None and z is not None:
-      o={'name':name.title(),'x':x,'z':z,'dest':dest,'id':'civmap:onedest/station/'+name.lower()}
-      if y is not None:
-        o['y'] = y
-      if comment is not None:
-        o['note'] = comment
-      features.append(o)
+        o={'name':name.title(),'x':x,'z':z,'dest':dest,'level':level,'id':'civmap:onedest/station/'+name.lower()}
+        if y is not None:
+            o['y'] = y
+        if comment is not None:
+            o['note'] = comment
+        if color != GREY:
+            o['color'] = color
+        features.append(o)
 
 presentations = [
     {
         "name": "Rail Stations (OneDest)",
         "style_base": {
-            "color": "#008844",
+            "color": f"$color|{GREY}",
+            "icon_size": {
+                "default": 8,
+                "feature_key": "level",
+                "categories": {
+                    "1": 18,
+                    "2": 16,
+                    "3": 14,
+                    "4": 12,
+                    "5": 10
+                }
+            },
+            "stroke_color": "#000000",
+            "stroke_width": 2,
         },
         "zoom_styles": {
-            "-6": { "name": None },
             "-2": { "name": "$name" },
         },
     },

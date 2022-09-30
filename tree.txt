@@ -1,11 +1,11 @@
 +,-
-    moloka
+    moloka <#4d65b4>
         deepslate
             fox.island
         detroit
         escobar
         stonegate
-    lyrean
+    lyrean <#0eaf9b>
         mehri (2645,59,-2205)
             develhof (3044,35,-2621)
             gutch (2563,35,-1978)
@@ -22,13 +22,13 @@
     civmarket
 +,+
     mta (3050,15,2097)
-    medi
+    medi <#e83b3b>
         cdm (5094,73,3138)
             mehricdmportal (4817,64,2668)
         danzilona (4784,18,4527)
         gensokyo (4779,47,6638)
         lusitania (7964,-49,3960)
-    artic
+    artic <#8fd3ff>
         nara (3389,15,5021)
         ichino (3789,15,5424) # unclear if child of nara
         nswisston (1906,84,8776)
