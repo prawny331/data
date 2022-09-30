@@ -19,7 +19,7 @@
             cape_cacoa
         pavia
             sandtopia (790,15,-2389)
-    civmarket
+    civmarket (2400,15,-114)
 +,+
     mta (3050,15,2097)
     medi <#e83b3b>
@@ -28,7 +28,7 @@
         danzilona (4784,18,4527)
         gensokyo (4779,47,6638)
         lusitania (7964,-49,3960)
-    artic <#8fd3ff>
+    arctic <#8fd3ff>
         nara (3389,15,5021)
-        ichino (3789,15,5424) # unclear if child of nara
+        ichino (3789,15,5424)
         nswisston (1906,84,8776)
