@@ -47,7 +47,7 @@ with open(r'tree.txt') as f:
       dest+=f" {i[0]}"
     # Add to ccmap feature list
     if x is not None and z is not None:
-      o={'name':name,'x':x,'z':z,'dest':dest,'id':'civmap:onedest/station/'+striped}
+      o={'name':name,'x':x,'z':z,'dest':dest,'id':'civmap:onedest/station/'+name.lower()}
       if y is not None:
         o['y'] = y
       if comment is not None:
