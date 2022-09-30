@@ -79,6 +79,8 @@ collection = {
 collection_string = json.dumps(collection, indent = None, separators = (',', ':'), sort_keys = True)
 # apply line breaks for readability and nice diffs
 collection_string = collection_string.replace("},{", "},\n{")
+collection_string = collection_string.replace("[","[\n")
+collection_string = collection_string.replace("],","\n],\n")
 print(collection_string)
 
 with open('civmap.json','w') as f:
