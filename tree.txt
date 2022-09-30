@@ -30,5 +30,5 @@
         lusitania (7964,-49,3960)
     artic
         nara (3389,15,5021)
-        ichino (3789,15,5424)
+        ichino (3789,15,5424) # unclear if child of nara
         nswisston (1906,84,8776)

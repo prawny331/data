@@ -56,7 +56,7 @@ with open(r'tree.txt') as f:
 
 presentations = [
     {
-        "name": "Rails and Stops (OneDest)",
+        "name": "Rail Stations (OneDest)",
         "style_base": {
             "color": "#008844",
         },
