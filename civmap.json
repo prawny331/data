@@ -13,8 +13,8 @@
 {"dest":"/dest ! +,+ medi gensokyo","id":"civmap:onedest/station/gensokyo (4779,47,6638)","name":"gensokyo","x":4779,"y":47,"z":6638},
 {"dest":"/dest ! +,+ medi lusitania","id":"civmap:onedest/station/lusitania (7964,-49,3960)","name":"lusitania","x":7964,"y":-49,"z":3960},
 {"dest":"/dest ! +,+ artic nara","id":"civmap:onedest/station/nara (3389,15,5021)","name":"nara","x":3389,"y":15,"z":5021},
-{"dest":"/dest ! +,+ artic ichino","id":"civmap:onedest/station/ichino (3789,15,5424)","name":"ichino","x":3789,"y":15,"z":5424},
+{"dest":"/dest ! +,+ artic ichino","id":"civmap:onedest/station/ichino (3789,15,5424) # unclear if child of nara","name":"ichino","note":" unclear if child of nara","x":3789,"y":15,"z":5424},
 {"dest":"/dest ! +,+ artic nswisston","id":"civmap:onedest/station/nswisston (1906,84,8776)","name":"nswisston","x":1906,"y":84,"z":8776}
 ],
-"info":{"last_update":1664543145,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
-{"name":"Rails and Stops (OneDest)","style_base":{"color":"#008844"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+"info":{"last_update":1664543851,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+{"name":"Rail Stations (OneDest)","style_base":{"color":"#008844"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
