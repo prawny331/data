@@ -1,20 +1,20 @@
 {"features":[
-{"dest":"/dest ! +,- lyrean mehri","id":"civmap:onedest/station/mehri (2645,59,-2205)","name":"mehri","x":2645,"y":59,"z":-2205},
-{"dest":"/dest ! +,- lyrean mehri develhof","id":"civmap:onedest/station/develhof (3044,35,-2621)","name":"develhof","x":3044,"y":35,"z":-2621},
-{"dest":"/dest ! +,- lyrean mehri gutch","id":"civmap:onedest/station/gutch (2563,35,-1978)","name":"gutch","x":2563,"y":35,"z":-1978},
-{"dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo (2245,35,-1700)","name":"thijo","x":2245,"y":35,"z":-1700},
-{"dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco (2817,35,-1693)","name":"blanco","x":2817,"y":35,"z":-1693},
-{"dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat (3690,76,-1400)","name":"lambat","x":3690,"y":76,"z":-1400},
-{"dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia (790,15,-2389)","name":"sandtopia","x":790,"y":15,"z":-2389},
-{"dest":"/dest ! +,+ mta","id":"civmap:onedest/station/mta (3050,15,2097)","name":"mta","x":3050,"y":15,"z":2097},
-{"dest":"/dest ! +,+ medi cdm","id":"civmap:onedest/station/cdm (5094,73,3138)","name":"cdm","x":5094,"y":73,"z":3138},
-{"dest":"/dest ! +,+ medi cdm mehricdmportal","id":"civmap:onedest/station/mehricdmportal (4817,64,2668)","name":"mehricdmportal","x":4817,"y":64,"z":2668},
-{"dest":"/dest ! +,+ medi danzilona","id":"civmap:onedest/station/danzilona (4784,18,4527)","name":"danzilona","x":4784,"y":18,"z":4527},
-{"dest":"/dest ! +,+ medi gensokyo","id":"civmap:onedest/station/gensokyo (4779,47,6638)","name":"gensokyo","x":4779,"y":47,"z":6638},
-{"dest":"/dest ! +,+ medi lusitania","id":"civmap:onedest/station/lusitania (7964,-49,3960)","name":"lusitania","x":7964,"y":-49,"z":3960},
-{"dest":"/dest ! +,+ artic nara","id":"civmap:onedest/station/nara (3389,15,5021)","name":"nara","x":3389,"y":15,"z":5021},
-{"dest":"/dest ! +,+ artic ichino","id":"civmap:onedest/station/ichino (3789,15,5424) # unclear if child of nara","name":"ichino","note":" unclear if child of nara","x":3789,"y":15,"z":5424},
-{"dest":"/dest ! +,+ artic nswisston","id":"civmap:onedest/station/nswisston (1906,84,8776)","name":"nswisston","x":1906,"y":84,"z":8776}
+{"dest":"/dest ! +,- lyrean mehri","id":"civmap:onedest/station/mehri","name":"mehri","x":2645,"y":59,"z":-2205},
+{"dest":"/dest ! +,- lyrean mehri develhof","id":"civmap:onedest/station/develhof","name":"develhof","x":3044,"y":35,"z":-2621},
+{"dest":"/dest ! +,- lyrean mehri gutch","id":"civmap:onedest/station/gutch","name":"gutch","x":2563,"y":35,"z":-1978},
+{"dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo","name":"thijo","x":2245,"y":35,"z":-1700},
+{"dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco","name":"blanco","x":2817,"y":35,"z":-1693},
+{"dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat","name":"lambat","x":3690,"y":76,"z":-1400},
+{"dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia","name":"sandtopia","x":790,"y":15,"z":-2389},
+{"dest":"/dest ! +,+ mta","id":"civmap:onedest/station/mta","name":"mta","x":3050,"y":15,"z":2097},
+{"dest":"/dest ! +,+ medi cdm","id":"civmap:onedest/station/cdm","name":"cdm","x":5094,"y":73,"z":3138},
+{"dest":"/dest ! +,+ medi cdm mehricdmportal","id":"civmap:onedest/station/mehricdmportal","name":"mehricdmportal","x":4817,"y":64,"z":2668},
+{"dest":"/dest ! +,+ medi danzilona","id":"civmap:onedest/station/danzilona","name":"danzilona","x":4784,"y":18,"z":4527},
+{"dest":"/dest ! +,+ medi gensokyo","id":"civmap:onedest/station/gensokyo","name":"gensokyo","x":4779,"y":47,"z":6638},
+{"dest":"/dest ! +,+ medi lusitania","id":"civmap:onedest/station/lusitania","name":"lusitania","x":7964,"y":-49,"z":3960},
+{"dest":"/dest ! +,+ artic nara","id":"civmap:onedest/station/nara","name":"nara","x":3389,"y":15,"z":5021},
+{"dest":"/dest ! +,+ artic ichino","id":"civmap:onedest/station/ichino","name":"ichino","note":" unclear if child of nara","x":3789,"y":15,"z":5424},
+{"dest":"/dest ! +,+ artic nswisston","id":"civmap:onedest/station/nswisston","name":"nswisston","x":1906,"y":84,"z":8776}
 ],
-"info":{"last_update":1664545080,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+"info":{"last_update":1664547164,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
 {"name":"Rail Stations (OneDest)","style_base":{"color":"#008844"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
