@@ -21,13 +21,14 @@
             sandtopia (790,15,-2389)
     civmarket
 +,+
-    mta
+    mta (3050,15,2097)
     medi
-        cdm
-            mehricdmportal
-        danzilona
-        gensokyo
-        lusitania (7964, -49, 3960)
+        cdm (5094,73,3138)
+            mehricdmportal (4817,64,2668)
+        danzilona (4784,18,4527)
+        gensokyo (4779,47,6638)
+        lusitania (7964,-49,3960)
     artic
-        nara
-        ichino
+        nara (3389,15,5021)
+        ichino (3789,15,5424)
+        nswisston (1906,84,8776)
