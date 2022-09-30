@@ -1,20 +1,20 @@
 {"features":[
-{"dest":"/dest ! +,- lyrean mehri","id":"civmap:onedest/station/mehri","name":"Mehri","x":2645,"y":59,"z":-2205},
-{"dest":"/dest ! +,- lyrean mehri develhof","id":"civmap:onedest/station/develhof","name":"Develhof","x":3044,"y":35,"z":-2621},
-{"dest":"/dest ! +,- lyrean mehri gutch","id":"civmap:onedest/station/gutch","name":"Gutch","x":2563,"y":35,"z":-1978},
-{"dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo","name":"Thijo","x":2245,"y":35,"z":-1700},
-{"dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco","name":"Blanco","x":2817,"y":35,"z":-1693},
-{"dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat","name":"Lambat","x":3690,"y":76,"z":-1400},
-{"dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia","name":"Sandtopia","x":790,"y":15,"z":-2389},
-{"dest":"/dest ! +,+ mta","id":"civmap:onedest/station/mta","name":"Mta","x":3050,"y":15,"z":2097},
-{"dest":"/dest ! +,+ medi cdm","id":"civmap:onedest/station/cdm","name":"Cdm","x":5094,"y":73,"z":3138},
-{"dest":"/dest ! +,+ medi cdm mehricdmportal","id":"civmap:onedest/station/mehricdmportal","name":"Mehricdmportal","x":4817,"y":64,"z":2668},
-{"dest":"/dest ! +,+ medi danzilona","id":"civmap:onedest/station/danzilona","name":"Danzilona","x":4784,"y":18,"z":4527},
-{"dest":"/dest ! +,+ medi gensokyo","id":"civmap:onedest/station/gensokyo","name":"Gensokyo","x":4779,"y":47,"z":6638},
-{"dest":"/dest ! +,+ medi lusitania","id":"civmap:onedest/station/lusitania","name":"Lusitania","x":7964,"y":-49,"z":3960},
-{"dest":"/dest ! +,+ artic nara","id":"civmap:onedest/station/nara","name":"Nara","x":3389,"y":15,"z":5021},
-{"dest":"/dest ! +,+ artic ichino","id":"civmap:onedest/station/ichino","name":"Ichino","note":" unclear if child of nara","x":3789,"y":15,"z":5424},
-{"dest":"/dest ! +,+ artic nswisston","id":"civmap:onedest/station/nswisston","name":"Nswisston","x":1906,"y":84,"z":8776}
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri","id":"civmap:onedest/station/mehri","level":3,"name":"Mehri","x":2645,"y":59,"z":-2205},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri develhof","id":"civmap:onedest/station/develhof","level":4,"name":"Develhof","x":3044,"y":35,"z":-2621},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri gutch","id":"civmap:onedest/station/gutch","level":4,"name":"Gutch","x":2563,"y":35,"z":-1978},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo","level":4,"name":"Thijo","x":2245,"y":35,"z":-1700},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco","level":4,"name":"Blanco","x":2817,"y":35,"z":-1693},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat","level":3,"name":"Lambat","x":3690,"y":76,"z":-1400},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia","level":4,"name":"Sandtopia","x":790,"y":15,"z":-2389},
+{"dest":"/dest ! +,+ mta","id":"civmap:onedest/station/mta","level":2,"name":"Mta","x":3050,"y":15,"z":2097},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi cdm","id":"civmap:onedest/station/cdm","level":3,"name":"Cdm","x":5094,"y":73,"z":3138},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi cdm mehricdmportal","id":"civmap:onedest/station/mehricdmportal","level":4,"name":"Mehricdmportal","x":4817,"y":64,"z":2668},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona","id":"civmap:onedest/station/danzilona","level":3,"name":"Danzilona","x":4784,"y":18,"z":4527},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi gensokyo","id":"civmap:onedest/station/gensokyo","level":3,"name":"Gensokyo","x":4779,"y":47,"z":6638},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi lusitania","id":"civmap:onedest/station/lusitania","level":3,"name":"Lusitania","x":7964,"y":-49,"z":3960},
+{"color":"#8fd3ff","dest":"/dest ! +,+ artic nara","id":"civmap:onedest/station/nara","level":3,"name":"Nara","x":3389,"y":15,"z":5021},
+{"color":"#8fd3ff","dest":"/dest ! +,+ artic ichino","id":"civmap:onedest/station/ichino","level":3,"name":"Ichino","note":" unclear if child of nara","x":3789,"y":15,"z":5424},
+{"color":"#8fd3ff","dest":"/dest ! +,+ artic nswisston","id":"civmap:onedest/station/nswisston","level":3,"name":"Nswisston","x":1906,"y":84,"z":8776}
 ],
-"info":{"last_update":1664547473,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
-{"name":"Rail Stations (OneDest)","style_base":{"color":"#008844"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+"info":{"last_update":1664555515,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+{"name":"Rail Stations (OneDest)","style_base":{"color":"$color|#808080","icon_size":{"categories":{"1":18,"2":16,"3":14,"4":12,"5":10},"default":8,"feature_key":"level"},"stroke_color":"#000000","stroke_width":2},"zoom_styles":{"-2":{"name":"$name"}}}]}
