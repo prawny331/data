@@ -1,10 +1,10 @@
 +,-
-    moloka <#4d65b4>
-        deepslate
-            fox.island
-        detroit
-        escobar
-        stonegate
+    moloka <#534582>
+        deepslate (1215,-60,-5110)
+            fox.island (1330,-62,-5649)
+        detroit (1630,-62,-6086)
+        escobar (-66,-63,-1986)
+        stonegate (984,-62,-4390)
     lyrean <#0eaf9b>
         mehri (2645,59,-2205)
             develhof (3044,35,-2621)
@@ -17,7 +17,7 @@
             uni_lambat
             pioneer
             cape_cacoa
-        pavia (984,-3049)
+        pavia (984,70,-3049)
             sandtopia (790,15,-2389)
     civmarket (2400,15,-114)
 +,+
