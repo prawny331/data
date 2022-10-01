@@ -17,7 +17,7 @@
             uni_lambat
             pioneer
             cape_cacoa
-        pavia
+        pavia (984,-3049)
             sandtopia (790,15,-2389)
     civmarket (2400,15,-114)
 +,+
