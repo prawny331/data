@@ -31,6 +31,9 @@ jobs:
         with:
           python-version: '3.9.1'
           
+      - name: install dependencies
+        run: pip install -r requirements.txt
+          
       - name: execute route compute script
         run: python parse.py
       
