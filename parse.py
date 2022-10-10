@@ -9,6 +9,7 @@ re_comment = re.compile("#.*")
 
 features = []
 dest_stack = []
+dest_list = []
 
 GREY = "#808080"
 
@@ -31,7 +32,14 @@ with open(r'tree.txt') as f:
         item = dest_stack[i]
         if ident <= item[1]:
             dest_stack.pop(i)
-    dest_stack.append((name,ident))
+    
+    dest_name = name.lower()
+    
+    if dest_name in dest_list:
+        raise Exception(f"ERROR: /dest {name} is present multiple times on the tree")
+    
+    dest_list.append(dest_name)
+    dest_stack.append((dest_name,ident))
     level = len(dest_stack)
     
     if level == 2:
@@ -65,7 +73,7 @@ with open(r'tree.txt') as f:
         dest+=f" {i[0]}"
     # Add to ccmap feature list
     if x is not None and z is not None:
-        o={'name':name.title(),'x':x,'z':z,'dest':dest,'level':level,'id':'civmap:onedest/station/'+name.lower()}
+        o={'name':name,'x':x,'z':z,'dest':dest,'level':level,'id':'civmap:onedest/station/'+name.lower()}
         if y is not None:
             o['y'] = y
         if comment is not None:
