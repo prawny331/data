@@ -12,16 +12,22 @@
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat","level":3,"name":"Lambat","x":3690,"y":76,"z":-1400},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia","id":"civmap:onedest/station/pavia","level":3,"name":"Pavia","x":984,"y":70,"z":-3049},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia","level":4,"name":"Sandtopia","x":790,"y":15,"z":-2389},
-{"dest":"/dest ! +,- civmarket","id":"civmap:onedest/station/civmarket","level":2,"name":"Civmarket","x":2400,"y":15,"z":-114},
-{"dest":"/dest ! +,+ mta","id":"civmap:onedest/station/mta","level":2,"name":"Mta","x":3050,"y":15,"z":2097},
-{"color":"#e83b3b","dest":"/dest ! +,+ medi cdm","id":"civmap:onedest/station/cdm","level":3,"name":"Cdm","x":5094,"y":73,"z":3138},
-{"color":"#e83b3b","dest":"/dest ! +,+ medi cdm mehricdmportal","id":"civmap:onedest/station/mehricdmportal","level":4,"name":"Mehricdmportal","x":4817,"y":64,"z":2668},
-{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona","id":"civmap:onedest/station/danzilona","level":3,"name":"Danzilona","x":4784,"y":18,"z":4527},
+{"dest":"/dest ! +,- civmarket","id":"civmap:onedest/station/civmarket","level":2,"name":"CivMarket","x":2400,"y":15,"z":-114},
+{"dest":"/dest ! +,+ mta","id":"civmap:onedest/station/mta","level":2,"name":"MtA","x":3050,"y":15,"z":2097},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi cdm","id":"civmap:onedest/station/cdm","level":3,"name":"CDM","x":5094,"y":73,"z":3138},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi cdm mehricdmportal","id":"civmap:onedest/station/mehricdmportal","level":4,"name":"MehriCDMPortal","x":4817,"y":64,"z":2668},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona","id":"civmap:onedest/station/danzilona","level":3,"name":"Danzilona","x":5275,"y":66,"z":4459},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona sophia","id":"civmap:onedest/station/sophia","level":4,"name":"Sophia","x":4784,"y":18,"z":4527},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona rosemont","id":"civmap:onedest/station/rosemont","level":4,"name":"Rosemont","x":5130,"y":55,"z":4375},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona warehouse","id":"civmap:onedest/station/warehouse","level":4,"name":"Warehouse","x":5260,"y":55,"z":4375},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona factories","id":"civmap:onedest/station/factories","level":4,"name":"Factories","x":5272,"y":55,"z":4500},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona sstation","id":"civmap:onedest/station/sstation","level":4,"name":"SStation","x":5268,"y":35,"z":4790},
+{"color":"#e83b3b","dest":"/dest ! +,+ medi danzilona phoenix","id":"civmap:onedest/station/phoenix","level":4,"name":"Phoenix","x":5350,"y":55,"z":4530},
 {"color":"#e83b3b","dest":"/dest ! +,+ medi gensokyo","id":"civmap:onedest/station/gensokyo","level":3,"name":"Gensokyo","x":4779,"y":47,"z":6638},
 {"color":"#e83b3b","dest":"/dest ! +,+ medi lusitania","id":"civmap:onedest/station/lusitania","level":3,"name":"Lusitania","x":7964,"y":-49,"z":3960},
 {"color":"#8fd3ff","dest":"/dest ! +,+ arctic nara","id":"civmap:onedest/station/nara","level":3,"name":"Nara","x":3389,"y":15,"z":5021},
 {"color":"#8fd3ff","dest":"/dest ! +,+ arctic ichino","id":"civmap:onedest/station/ichino","level":3,"name":"Ichino","x":3789,"y":15,"z":5424},
-{"color":"#8fd3ff","dest":"/dest ! +,+ arctic nswisston","id":"civmap:onedest/station/nswisston","level":3,"name":"Nswisston","x":1906,"y":84,"z":8776}
+{"color":"#8fd3ff","dest":"/dest ! +,+ arctic nswisston","id":"civmap:onedest/station/nswisston","level":3,"name":"NSwisston","x":1906,"y":84,"z":8776}
 ],
-"info":{"last_update":1664643998,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+"info":{"last_update":1665396080,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
 {"name":"Rail Stations (OneDest)","style_base":{"color":"$color|#808080","icon_size":{"categories":{"1":18,"2":16,"3":14,"4":12,"5":10},"default":8,"feature_key":"level"},"stroke_color":"#000000","stroke_width":2},"zoom_styles":{"-2":{"name":"$name"}}}]}
