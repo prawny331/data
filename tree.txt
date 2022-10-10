@@ -1,34 +1,40 @@
 +,-
-    moloka <#534582>
-        deepslate (1215,-60,-5110)
-            fox.island (1330,-62,-5649)
-        detroit (1630,-62,-6086)
-        escobar (-66,-63,-1986)
-        stonegate (984,-62,-4390)
-    lyrean <#0eaf9b>
-        mehri (2645,59,-2205)
-            develhof (3044,35,-2621)
-            gutch (2563,35,-1978)
-            thijo (2245,35,-1700)
-            blanco (2817,35,-1693)
-        lambat (3690,76,-1400)
-            poblacion
-            katipan
-            uni_lambat
-            pioneer
-            cape_cacoa
-        pavia (984,70,-3049)
-            sandtopia (790,15,-2389)
-    civmarket (2400,15,-114)
+    Moloka <#534582>
+        Deepslate (1215,-60,-5110)
+            Fox.Island (1330,-62,-5649)
+        Detroit (1630,-62,-6086)
+        Escobar (-66,-63,-1986)
+        Stonegate (984,-62,-4390)
+    Lyrean <#0eaf9b>
+        Mehri (2645,59,-2205)
+            Develhof (3044,35,-2621)
+            Gutch (2563,35,-1978)
+            Thijo (2245,35,-1700)
+            Blanco (2817,35,-1693)
+        Lambat (3690,76,-1400)
+            Poblacion
+            Katipan
+            Uni_Lambat
+            Pioneer
+            Cape_Cacoa
+        Pavia (984,70,-3049)
+            Sandtopia (790,15,-2389)
+    CivMarket (2400,15,-114)
 +,+
-    mta (3050,15,2097)
-    medi <#e83b3b>
-        cdm (5094,73,3138)
-            mehricdmportal (4817,64,2668)
-        danzilona (4784,18,4527)
-        gensokyo (4779,47,6638)
-        lusitania (7964,-49,3960)
-    arctic <#8fd3ff>
-        nara (3389,15,5021)
-        ichino (3789,15,5424)
-        nswisston (1906,84,8776)
+    MtA (3050,15,2097)
+    Medi <#e83b3b>
+        CDM (5094,73,3138)
+            MehriCDMPortal (4817,64,2668)
+        Danzilona (5275,66,4459)
+            Sophia (4784,18,4527)
+            Rosemont (5130,55,4375)
+            Warehouse (5260,55,4375)
+            Factories (5272,55,4500)
+            SStation (5268,35,4790)
+            Phoenix (5350,55,4530)
+        Gensokyo (4779,47,6638)
+        Lusitania (7964,-49,3960)
+    Arctic <#8fd3ff>
+        Nara (3389,15,5021)
+        Ichino (3789,15,5424)
+        NSwisston (1906,84,8776)
