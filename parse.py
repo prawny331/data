@@ -2,6 +2,7 @@ import re
 import json
 import time
 from os import environ
+from style import PRESENTATIONS, GREY
 
 re_coord = re.compile("\((.*?)\)")
 re_color = re.compile("\<(#.{6})\>")
@@ -11,8 +12,7 @@ features = []
 dest_stack = []
 dest_list = []
 
-GREY = "#808080"
-
+# Read OneDest tree
 with open(r'tree.txt') as f:
   cur_ident=0
   color=GREY
@@ -82,37 +82,14 @@ with open(r'tree.txt') as f:
             o['color'] = color
         features.append(o)
 
-presentations = [
-    {
-        "name": "Rail Stations (OneDest)",
-        "style_base": {
-            "color": f"$color|{GREY}",
-            "icon_size": {
-                "default": 8,
-                "feature_key": "level",
-                "categories": {
-                    "1": 18,
-                    "2": 16,
-                    "3": 14,
-                    "4": 12,
-                    "5": 10
-                }
-            },
-            "stroke_color": "#000000",
-            "stroke_width": 2,
-        },
-        "zoom_styles": {
-            "-2": { "name": "$name" },
-        },
-    },
-]
+# Generate civmap JSON
 collection = {
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
         "last_update": environ.get('LAST_UPDATE') or int(time.time()),
     },
-    "presentations": presentations,
+    "presentations": PRESENTATIONS,
     "features": features,
 }
 
