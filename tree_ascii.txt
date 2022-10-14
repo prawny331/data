@@ -1,0 +1,43 @@
+/dest !
+ ├── +,-
+ │   ├── moloka*
+ │   │   ├── deepslate
+ │   │   │   └── fox.island
+ │   │   ├── detroit
+ │   │   ├── escobar
+ │   │   └── stonegate
+ │   ├── lyrean*
+ │   │   ├── mehri
+ │   │   │   ├── develhof
+ │   │   │   ├── gutch
+ │   │   │   ├── thijo
+ │   │   │   └── blanco
+ │   │   ├── lambat
+ │   │   │   ├── poblacion*
+ │   │   │   ├── katipan
+ │   │   │   ├── uni_lambat
+ │   │   │   ├── pioneer
+ │   │   │   └── cape_cacoa
+ │   │   └── pavia
+ │   │       └── sandtopia
+ │   └── civmarket
+ └── +,+
+     ├── mta
+     ├── medi*
+     │   ├── cdm
+     │   │   └── mehricdmportal
+     │   ├── danzilona
+     │   │   ├── sophia
+     │   │   ├── rosemont
+     │   │   ├── warehouse
+     │   │   ├── factories
+     │   │   ├── sstation
+     │   │   └── phoenix
+     │   ├── gensokyo
+     │   └── lusitania
+     └── arctic*
+         ├── nara
+         ├── ichino
+         └── nswisston
+
+* lacks a known station

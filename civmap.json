@@ -10,6 +10,10 @@
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo","level":4,"name":"Thijo","x":2245,"y":35,"z":-1700},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco","level":4,"name":"Blanco","x":2817,"y":35,"z":-1693},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat","level":3,"name":"Lambat","x":3690,"y":76,"z":-1400},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat katipan","id":"civmap:onedest/station/katipan","level":4,"name":"Katipan","x":3832,"y":76,"z":-1765},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat uni_lambat","id":"civmap:onedest/station/uni_lambat","level":4,"name":"Uni_Lambat","x":3774,"y":76,"z":-1540},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat pioneer","id":"civmap:onedest/station/pioneer","level":4,"name":"Pioneer","x":3884,"y":76,"z":-1321},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat cape_cacoa","id":"civmap:onedest/station/cape_cacoa","level":4,"name":"Cape_Cacoa","x":4133,"y":76,"z":-2479},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia","id":"civmap:onedest/station/pavia","level":3,"name":"Pavia","x":984,"y":70,"z":-3049},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia","level":4,"name":"Sandtopia","x":790,"y":15,"z":-2389},
 {"dest":"/dest ! +,- civmarket","id":"civmap:onedest/station/civmarket","level":2,"name":"CivMarket","x":2400,"y":15,"z":-114},
@@ -29,5 +33,5 @@
 {"color":"#8fd3ff","dest":"/dest ! +,+ arctic ichino","id":"civmap:onedest/station/ichino","level":3,"name":"Ichino","x":3789,"y":15,"z":5424},
 {"color":"#8fd3ff","dest":"/dest ! +,+ arctic nswisston","id":"civmap:onedest/station/nswisston","level":3,"name":"NSwisston","x":1906,"y":84,"z":8776}
 ],
-"info":{"last_update":1665400341,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+"info":{"last_update":1665762976,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
 {"name":"Rail Stations (OneDest)","style_base":{"color":"$color|#808080","icon_size":{"categories":{"1":18,"2":16,"3":14,"4":12,"5":10},"default":8,"feature_key":"level"},"stroke_color":"#000000","stroke_width":2},"zoom_styles":{"-3":{"opacity":1},"-6":{"name":"$name","opacity":{"categories":{"1":1,"2":1,"3":1},"default":0,"feature_key":"level"}}}}]}
