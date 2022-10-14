@@ -12,7 +12,7 @@
             Thijo (2245,35,-1700)
             Blanco (2817,35,-1693)
         Lambat (3690,76,-1400)
-            Poblacion
+            Poblacion # Isomorphic with Lambat
             Katipan (3832,76,-1765)
             Uni_Lambat (3774,76,-1540)
             Pioneer (3884,76,-1321)

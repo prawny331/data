@@ -43,4 +43,4 @@ jobs:
           author_name: Github Actions
           author_email: github_actions@github.com
           message: Compute Routes .JSON
-          add: 'civmap.json ascii_tree.txt'
+          add: '.'
