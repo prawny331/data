@@ -1,4 +1,8 @@
 +,-
+    Impendia <#d9b5ff>
+        Fempire (6191 69 -6168)
+        Cordoba (5050 65 -5444)
+            Harvestportal (6568 62 -4407)
     Moloka <#534582>
         Deepslate (1215,-60,-5110)
             Fox.Island (1330,-62,-5649)
