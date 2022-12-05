@@ -24,7 +24,7 @@
             Katipan (3832,76,-1765)
             Uni_Lambat (3774,76,-1540)
             Pioneer (3884,76,-1321)
-            Cape_Cacoa (4133,76,-2479)
+            Cape_Cocoa (4133,76,-2479)
         Pavia (984,70,-3049)
             Sandtopia (790,15,-2389)
     CivMarket (2400,15,-114)
