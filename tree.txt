@@ -47,3 +47,17 @@
         Ichino (3789,15,5424)
         NSwisston (1906,84,8776)
         Venne (735,65,8900)
+-,+
+    Deluvia
+        IF <#cc000f>
+            PrideRock (-2213,60,9200) # Pridelands - Pride Rock
+            Godhaven (-2317,54,8476) # Godhaven - Ohio
+            Regentsburgh (-3514,85,8839)
+            Joannesberg (-3703,5,8801)
+            Vallstena (-4922,4,8412) # Gotland - Vallstena
+            Aethia (-2943,-63,8042) # Godhaven - Aethia Nether Gate
+            Ostersund (-2431,4,7547) # Esberg-Ostersund - Ostersund
+            Imperia (-3426,75,6973)
+            AnorLondoX (-2459,65,6286)
+            Freeport (-3389,44,4378) # Pridelands - Lionsgate Archipelago / Simensen Freeport
+            StrosMKai (-5299,69,4681)
