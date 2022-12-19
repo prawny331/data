@@ -69,8 +69,8 @@ with open(r'tree.txt') as f:
     zoom = level
     if level >= 4:
         coord_parent = False
-        for i in range(len(dest_stack) - 1):
-            if not dest_stack[i] in dest_nocoord:
+        for i in range(1,len(dest_stack) - 1):
+            if not dest_stack[i][0] in dest_nocoord:
                 coord_parent = True
         if not coord_parent:
             zoom = 3
