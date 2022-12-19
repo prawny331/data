@@ -64,7 +64,18 @@ with open(r'tree.txt') as f:
             z = int(coords[2])
     elif level > 1:
         dest_nocoord.append(dest_id)
-  
+    
+    # Determine Zoom
+    zoom = level
+    if level >= 4:
+        coord_parent = False
+        for i in range(len(dest_stack) - 1):
+            dest = dest_stack[i]
+            if not dest in dest_nocoord:
+                coord_parent = True
+        if not coord_parent:
+            zoom = 3
+
     # Parse color
     color_parse = re_color.search(striped)
     if color_parse:
@@ -90,7 +101,7 @@ with open(r'tree.txt') as f:
     
     # Add to ccmap feature list
     if x is not None and z is not None:
-        o={'name':dest_name,'x':x,'z':z,'dest':dest,'level':level,'id':'civmap:onedest/station/'+dest_id}
+        o={'name':dest_name,'x':x,'z':z,'dest':dest,'level':level,'zoom':zoom,'id':'civmap:onedest/station/'+dest_id}
         if y is not None:
             o['y'] = y
         if comment is not None:

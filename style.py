@@ -9,7 +9,7 @@ PRESENTATIONS = [
             "color": f"$color|{GREY}",
             "icon_size": {
                 "default": 8,
-                "feature_key": "level",
+                "feature_key": "zoom",
                 "categories": {
                     "1": 18,
                     "2": 16,
@@ -25,7 +25,7 @@ PRESENTATIONS = [
             "-6": { "name": "$name", 
                     "opacity": {
                         "default": 0,
-                        "feature_key": "level",
+                        "feature_key": "zoom",
                         "categories": {
                             "1": 1,
                             "2": 1,
