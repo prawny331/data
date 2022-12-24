@@ -42,6 +42,7 @@
             Phoenix (5350,55,4530)
         Gensokyo (4779,47,6638)
         Lusitania (7964,-49,3960)
+        Truidencia (6610,62,6389)
     Arctic <#8fd3ff>
         Nara (3389,15,5021)
         Ichino (3789,15,5424)
