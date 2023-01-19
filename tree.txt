@@ -61,4 +61,4 @@
             Imperia (-3426,75,6973)
             AnorLondoX (-2459,65,6286)
             Freeport (-3389,44,4378) # Pridelands - Lionsgate Archipelago / Simensen Freeport
-            StrosMKai (-5299,69,4681)
+            Grenada (-5299,69,4681)
