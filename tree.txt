@@ -23,7 +23,7 @@
         Lambat (3690,76,-1400)
             Poblacion # Isomorphic with Lambat
             Katipan (3832,76,-1765)
-            Uni_Lambat (3774,76,-1540)
+            Uni_Lambat (3775,76,-1580)
             Pioneer (3884,76,-1321)
             Cape_Cocoa (4133,76,-2479)
         Pavia (1017,82,-3014)
