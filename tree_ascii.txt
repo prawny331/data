@@ -20,7 +20,8 @@
  │   │   │   ├── develhof
  │   │   │   ├── gutch
  │   │   │   ├── thijo
- │   │   │   └── blanco
+ │   │   │   ├── blanco
+ │   │   │   └── bazar
  │   │   ├── lambat
  │   │   │   ├── poblacion*
  │   │   │   ├── katipan
