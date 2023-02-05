@@ -22,6 +22,8 @@
  │   │   │   ├── thijo
  │   │   │   ├── blanco
  │   │   │   └── bazar
+ │   │   │       ├── pens
+ │   │   │       └── sostas
  │   │   ├── lambat
  │   │   │   ├── poblacion*
  │   │   │   ├── katipan

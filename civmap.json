@@ -17,7 +17,9 @@
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri gutch","id":"civmap:onedest/station/gutch","level":4,"name":"Gutch","x":2563,"y":35,"z":-1978,"zoom":4},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri thijo","id":"civmap:onedest/station/thijo","level":4,"name":"Thijo","x":2245,"y":35,"z":-1700,"zoom":4},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri blanco","id":"civmap:onedest/station/blanco","level":4,"name":"Blanco","x":2817,"y":35,"z":-1693,"zoom":4},
-{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri bazar","id":"civmap:onedest/station/bazar","level":4,"name":"Bazar","x":2470,"y":35,"z":-1530,"zoom":4},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri bazar","id":"civmap:onedest/station/bazar","level":4,"name":"Bazar","x":2600,"y":86,"z":-1456,"zoom":4},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri bazar pens","id":"civmap:onedest/station/pens","level":5,"name":"Pens","x":2470,"y":35,"z":-1530,"zoom":5},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean mehri bazar sostas","id":"civmap:onedest/station/sostas","level":5,"name":"Sostas","x":2470,"y":35,"z":-1150,"zoom":5},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat","id":"civmap:onedest/station/lambat","level":3,"name":"Lambat","x":3690,"y":76,"z":-1400,"zoom":3},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat katipan","id":"civmap:onedest/station/katipan","level":4,"name":"Katipan","x":3832,"y":76,"z":-1765,"zoom":4},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat uni_lambat","id":"civmap:onedest/station/uni_lambat","level":4,"name":"Uni_Lambat","x":3775,"y":76,"z":-1580,"zoom":4},
@@ -55,5 +57,5 @@
 {"color":"#cc000f","dest":"/dest ! -,+ deluvia if freeport","id":"civmap:onedest/station/freeport","level":4,"name":"Freeport","note":" Pridelands - Lionsgate Archipelago / Simensen Freeport","x":-3389,"y":44,"z":4378,"zoom":3},
 {"color":"#cc000f","dest":"/dest ! -,+ deluvia if grenada","id":"civmap:onedest/station/grenada","level":4,"name":"Grenada","x":-5299,"y":69,"z":4681,"zoom":3}
 ],
-"info":{"last_update":1675617620,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+"info":{"last_update":1675624584,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
 {"name":"Rail Stations (OneDest)","style_base":{"color":"$color|#808080","icon_size":{"categories":{"1":18,"2":16,"3":14,"4":12,"5":10},"default":8,"feature_key":"zoom"},"stroke_color":"#000000","stroke_width":2},"zoom_styles":{"-3":{"opacity":1},"-6":{"name":"$name","opacity":{"categories":{"1":1,"2":1,"3":1},"default":0,"feature_key":"zoom"}}}}]}
