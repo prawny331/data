@@ -20,7 +20,9 @@
             Gutch (2563,35,-1978)
             Thijo (2245,35,-1700)
             Blanco (2817,35,-1693)
-            Bazar (2470,35,-1530)
+            Bazar (2600,86,-1456)
+                Pens (2470,35,-1530)
+                Sostas (2470,35,-1150)
         Lambat (3690,76,-1400)
             Poblacion # Isomorphic with Lambat
             Katipan (3832,76,-1765)
