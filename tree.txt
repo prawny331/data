@@ -68,3 +68,4 @@
             AnorLondoX (-2459,65,6286)
             Freeport (-3389,44,4378) # Pridelands - Lionsgate Archipelago / Simensen Freeport
             Grenada (-5299,69,4681)
+            PyramidPlaza (-4850,6000)
