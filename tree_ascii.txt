@@ -56,20 +56,22 @@
  │       │   ├── arena
  │       │   └── hotel
  │       └── venne
- └── -,+
-     └── deluvia*
-         └── if*
-             ├── priderock
-             ├── godhaven
-             ├── regentsburgh
-             ├── joannesberg
-             ├── vallstena
-             ├── aethia
-             ├── ostersund
-             ├── imperia
-             ├── anorlondox
-             ├── freeport
-             ├── grenada
-             └── pyramidplaza
+ ├── -,+
+ │   └── deluvia*
+ │       └── if*
+ │           ├── priderock
+ │           ├── godhaven
+ │           ├── regentsburgh
+ │           ├── joannesberg
+ │           ├── vallstena
+ │           ├── aethia
+ │           ├── ostersund
+ │           ├── imperia
+ │           ├── anorlondox
+ │           ├── freeport
+ │           ├── grenada
+ │           └── pyramidplaza
+ └── -,-
+     └── proxima
 
 * lacks a known station
