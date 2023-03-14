@@ -70,3 +70,5 @@
             Freeport (-3389,44,4378) # Pridelands - Lionsgate Archipelago / Simensen Freeport
             Grenada (-5299,69,4681)
             PyramidPlaza (-4850,6000)
+-,-
+    Proxima (-750,10,-3500) # New western edge of the Mehri's granite line, very preliminary addition, subject to change upon further -,- development, also has a tree junction
