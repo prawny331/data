@@ -50,29 +50,40 @@
  │   │   ├── gensokyo
  │   │   ├── lusitania
  │   │   └── truidencia
- │   └── arctic*
- │       ├── nara
- │       ├── ichino
- │       ├── nswisston
- │       │   ├── arena
- │       │   └── hotel
- │       └── venne
+ │   ├── arctic*
+ │   │   ├── nara
+ │   │   │   └── qbarra*
+ │   │   ├── ichino
+ │   │   ├── nswisston
+ │   │   │   ├── arena
+ │   │   │   └── hotel
+ │   │   └── venne
+ │   └── ap*
+ │       ├── aldenfult
+ │       ├── cfarms
+ │       └── cdesert
  ├── -,+
  │   └── deluvia*
- │       └── if*
- │           ├── priderock
- │           ├── godhaven
- │           ├── regentsburgh
- │           ├── joannesberg
- │           ├── vallstena
- │           ├── aethia
- │           ├── ostersund
- │           ├── imperia
- │           ├── anorlondox
- │           ├── freeport
- │           ├── grenada
- │           └── pyramidplaza
+ │       ├── if*
+ │       │   ├── priderock
+ │       │   ├── godhaven
+ │       │   ├── regentsburgh
+ │       │   ├── joannesberg
+ │       │   ├── vallstena
+ │       │   ├── aethia
+ │       │   ├── ostersund
+ │       │   ├── imperia
+ │       │   ├── anorlondox
+ │       │   ├── freeport
+ │       │   ├── grenada
+ │       │   └── pyramidplaza
+ │       └── founders*
+ │           ├── caliphate
+ │           ├── waabi
+ │           ├── petergrad
+ │           └── cw
  └── -,-
-     └── proxima
+     ├── proxima
+     └── icenia
 
 * lacks a known station
