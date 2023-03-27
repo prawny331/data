@@ -76,11 +76,11 @@
             Freeport (-3389,44,4378) # Pridelands - Lionsgate Archipelago / Simensen Freeport
             Grenada (-5299,69,4681)
             PyramidPlaza (-4850,6000)
-        Founders <#ffa500>
-            Caliphate (-1439,9,1984)
-            Waabi (-1025,9,2599)
-            Petergrad (-4124,-1,958)
-            CW (-3993,0,64)
+    Founders <#ffa500>
+        Caliphate (-1439,9,1984)
+        Waabi (-1025,9,2599)
+        Petergrad (-4124,-1,958)
+        CW (-3993,0,64)
 -,-
     Proxima (-750,10,-3500) # New western edge of the Mehri's granite line, very preliminary addition, subject to change upon further -,- development, also has a tree junction
     Icenia (-3772,3,-4322) <#00c9ff>
