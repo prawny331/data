@@ -50,8 +50,8 @@
         Lusitania (7964,-49,3960)
         Truidencia (6610,62,6389)
     Arctic <#8fd3ff>
-        Nara (3389,15,5021)
-            qbarra
+        Nara (3366,9,5046)
+            qbarra (7050,-58,715)
         Ichino (3789,15,5424)
         NSwisston (1906,84,8776)
             Arena (2006, 73, 8902)
@@ -79,6 +79,7 @@
     Founders <#ffa500>
         Caliphate (-1439,9,1984)
         Waabi (-1025,9,2599)
+        Melonwood (-3590,9,1990)
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
 -,-
