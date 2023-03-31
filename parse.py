@@ -1,7 +1,7 @@
 import re
 import json
 import time
-from os import environ
+from os import environ, path
 from style import PRESENTATIONS, GREY
 
 from asciitree import LeftAligned
@@ -107,6 +107,8 @@ with open(r'tree.txt') as f:
             o['note'] = comment
         if color != GREY:
             o['color'] = color
+        if path.isfile(f"images/{dest_id}.png"):
+            o['image'] = f"https://raw.githubusercontent.com/OneDest/data/master/images/{dest_id}.png"
         features.append(o)
 
 # Generate civmap JSON
