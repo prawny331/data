@@ -50,7 +50,7 @@
         Lusitania (7964,-49,3960)
         Truidencia (6610,62,6389)
     Arctic <#8fd3ff>
-        Nara (3336,9,5046)
+        Nara (3366,9,5046)
             qbarra (7050,-58,715)
         Ichino (3789,15,5424)
         NSwisston (1906,84,8776)
