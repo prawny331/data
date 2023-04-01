@@ -109,6 +109,8 @@ with open(r'tree.txt') as f:
             o['color'] = color
         if path.isfile(f"images/{dest_id}.png"):
             o['image'] = f"https://raw.githubusercontent.com/OneDest/data/master/images/{dest_id}.png"
+        else:
+            print(f"note: {dest_id} lacks a image")
         features.append(o)
 
 # Generate civmap JSON
@@ -127,7 +129,7 @@ collection_string = json.dumps(collection, indent = None, separators = (',', ':'
 collection_string = collection_string.replace("},{", "},\n{")
 collection_string = collection_string.replace("[","[\n")
 collection_string = collection_string.replace("],","\n],\n")
-print(collection_string)
+#print(collection_string)
 
 with open('civmap.json','w') as f:
     f.write(collection_string)
