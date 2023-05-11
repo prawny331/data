@@ -26,6 +26,7 @@
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat uni_lambat","id":"civmap:onedest/station/uni_lambat","image":"https://raw.githubusercontent.com/OneDest/data/master/images/uni_lambat.png","level":4,"name":"Uni_Lambat","x":3775,"y":76,"z":-1580,"zoom":4},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat pioneer","id":"civmap:onedest/station/pioneer","image":"https://raw.githubusercontent.com/OneDest/data/master/images/pioneer.png","level":4,"name":"Pioneer","x":3884,"y":76,"z":-1321,"zoom":4},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat cape_cocoa","id":"civmap:onedest/station/cape_cocoa","image":"https://raw.githubusercontent.com/OneDest/data/master/images/cape_cocoa.png","level":4,"name":"Cape_Cocoa","x":4133,"y":76,"z":-2479,"zoom":4},
+{"color":"#0eaf9b","dest":"/dest ! +,- lyrean lambat cvj","id":"civmap:onedest/station/cvj","level":4,"name":"CVJ","x":3525,"y":76,"z":-1355,"zoom":4},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia","id":"civmap:onedest/station/pavia","image":"https://raw.githubusercontent.com/OneDest/data/master/images/pavia.png","level":3,"name":"Pavia","x":1017,"y":82,"z":-3014,"zoom":3},
 {"color":"#0eaf9b","dest":"/dest ! +,- lyrean pavia sandtopia","id":"civmap:onedest/station/sandtopia","image":"https://raw.githubusercontent.com/OneDest/data/master/images/sandtopia.png","level":4,"name":"Sandtopia","x":790,"y":15,"z":-2389,"zoom":4},
 {"dest":"/dest ! +,- civmarket","id":"civmap:onedest/station/civmarket","image":"https://raw.githubusercontent.com/OneDest/data/master/images/civmarket.png","level":2,"name":"CivMarket","x":2400,"y":15,"z":-114,"zoom":2},
@@ -73,5 +74,5 @@
 {"dest":"/dest ! -,- proxima","id":"civmap:onedest/station/proxima","image":"https://raw.githubusercontent.com/OneDest/data/master/images/proxima.png","level":2,"name":"Proxima","note":" New western edge of the Mehri's granite line, very preliminary addition, subject to change upon further -,- development, also has a tree junction","x":-750,"y":10,"z":-3500,"zoom":2},
 {"color":"#00c9ff","dest":"/dest ! -,- icenia","id":"civmap:onedest/station/icenia","image":"https://raw.githubusercontent.com/OneDest/data/master/images/icenia.png","level":2,"name":"Icenia","note":"00c9ff>","x":-3772,"y":3,"z":-4322,"zoom":2}
 ],
-"info":{"last_update":1680388257,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
+"info":{"last_update":1683797380,"version":"3.0.0-beta3"},"name":"Rails","presentations":[
 {"name":"Rail Stations (OneDest)","style_base":{"color":"$color|#808080","icon_size":{"categories":{"1":18,"2":16,"3":14,"4":12,"5":10},"default":8,"feature_key":"zoom"},"stroke_color":"#000000","stroke_width":2},"zoom_styles":{"-3":{"opacity":1},"-6":{"name":"$name","opacity":{"categories":{"1":1,"2":1,"3":1},"default":0,"feature_key":"zoom"}}}}]}
