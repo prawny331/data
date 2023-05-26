@@ -48,13 +48,17 @@
  │   │   │   ├── factories
  │   │   │   ├── sstation
  │   │   │   └── phoenix
+ │   │   ├── transylvania
  │   │   ├── gensokyo
  │   │   ├── lusitania
  │   │   └── truidencia
  │   ├── arctic*
- │   │   ├── nara
- │   │   │   └── qbarra
- │   │   ├── ichino
+ │   │   ├── nara*
+ │   │   │   ├── shiroyama
+ │   │   │   ├── orakuru
+ │   │   │   ├── qbarra
+ │   │   │   └── ichino
+ │   │   ├── meracydia
  │   │   ├── nswisston
  │   │   │   ├── arena
  │   │   │   └── hotel
