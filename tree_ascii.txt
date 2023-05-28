@@ -83,13 +83,17 @@
  │   │       ├── grenada
  │   │       └── pyramidplaza
  │   └── founders*
- │       ├── caliphate
+ │       ├── mali
  │       ├── waabi
+ │       ├── caliphate
  │       ├── melonwood
  │       ├── petergrad
  │       └── cw
  └── -,-
      ├── proxima
-     └── icenia
+     ├── icenia
+     └── karydia*
+         ├── pacem
+         └── mercutio
 
 * lacks a known station
