@@ -69,19 +69,28 @@
  │       └── cdesert
  ├── -,+
  │   ├── deluvia*
- │   │   └── if*
- │   │       ├── priderock
- │   │       ├── godhaven
- │   │       ├── regentsburgh
- │   │       ├── joannesberg
- │   │       ├── vallstena
- │   │       ├── aethia
- │   │       ├── ostersund
- │   │       ├── imperia
+ │   │   ├── imperia
+ │   │   ├── imperial*
+ │   │   │   ├── aethia
+ │   │   │   ├── feline
+ │   │   │   ├── godhaven
+ │   │   │   ├── halland
+ │   │   │   └── priderock
+ │   │   ├── midgard*
+ │   │   │   ├── ostersund
+ │   │   │   ├── esberg
+ │   │   │   └── vanaheim
+ │   │   ├── midlands*
+ │   │   │   ├── nalora
+ │   │   │   ├── regentsburgh
+ │   │   │   ├── surmadri
+ │   │   │   ├── vallstena
+ │   │   │   └── vermont
+ │   │   └── southsea*
  │   │       ├── anorlondox
  │   │       ├── freeport
  │   │       ├── grenada
- │   │       └── pyramidplaza
+ │   │       └── venozia
  │   └── founders*
  │       ├── mali
  │       ├── waabi
