@@ -101,7 +101,6 @@
         Petergrad (-4124,-1,958)
         CW (-3993,0,64)
 -,-
-    0,0 (0,-63,0) #under -,- for some reason
     Proxima (-750,10,-3500) # New western edge of the Mehri's granite line, very preliminary addition, subject to change upon further -,- development, also has a tree junction
     Icenia (-3772,3,-4322) <#00c9ff>
     Karydia <#fcd20e>
