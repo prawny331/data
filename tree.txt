@@ -62,6 +62,7 @@
             Arena (2006, 73, 8902)
             Hotel (1800, 85, 8815)
         Venne (735,65,8900)
+        Chronosia
     AP <#32CD32>
         Arsenia (2861,15,4532)
         Elysium (2349,71,4060)
