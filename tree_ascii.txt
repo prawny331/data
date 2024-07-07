@@ -59,11 +59,11 @@
  │   │   │   ├── orakuru
  │   │   │   └── ichino
  │   │   ├── meracydia
+ │   │   ├── chronosia
  │   │   ├── nswisston
  │   │   │   ├── arena
  │   │   │   └── hotel
- │   │   ├── venne
- │   │   └── chronosia*
+ │   │   └── venne
  │   └── ap*
  │       ├── arsenia
  │       ├── elysium
