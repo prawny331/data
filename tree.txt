@@ -58,6 +58,7 @@
             Orakuru (3700,14,6971)
             Ichino (3789,15,5424) #now under the nara tag
         Meracydia (5370,15,7687)
+        Snowpeak (5369,65,8071)
         Chronosia (2681,112,9076)
         NSwisston (1906,84,8776)
             Arena (2006, 73, 8902)
